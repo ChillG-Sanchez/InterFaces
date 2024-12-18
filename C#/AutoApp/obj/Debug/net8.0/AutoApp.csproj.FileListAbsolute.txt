@@ -1,0 +1,15 @@
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Interfaces/C#/AutoApp/bin/Debug/net8.0/AutoApp
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Interfaces/C#/AutoApp/bin/Debug/net8.0/AutoApp.deps.json
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Interfaces/C#/AutoApp/bin/Debug/net8.0/AutoApp.runtimeconfig.json
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Interfaces/C#/AutoApp/bin/Debug/net8.0/AutoApp.dll
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Interfaces/C#/AutoApp/bin/Debug/net8.0/AutoApp.pdb
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Interfaces/C#/AutoApp/obj/Debug/net8.0/AutoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Interfaces/C#/AutoApp/obj/Debug/net8.0/AutoApp.AssemblyInfoInputs.cache
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Interfaces/C#/AutoApp/obj/Debug/net8.0/AutoApp.AssemblyInfo.cs
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Interfaces/C#/AutoApp/obj/Debug/net8.0/AutoApp.csproj.CoreCompileInputs.cache
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Interfaces/C#/AutoApp/obj/Debug/net8.0/AutoApp.sourcelink.json
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Interfaces/C#/AutoApp/obj/Debug/net8.0/AutoApp.dll
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Interfaces/C#/AutoApp/obj/Debug/net8.0/refint/AutoApp.dll
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Interfaces/C#/AutoApp/obj/Debug/net8.0/AutoApp.pdb
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Interfaces/C#/AutoApp/obj/Debug/net8.0/AutoApp.genruntimeconfig.cache
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Interfaces/C#/AutoApp/obj/Debug/net8.0/ref/AutoApp.dll
